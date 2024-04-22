@@ -1,0 +1,391 @@
+# Translation of Plugins - Floating Notification Bar, Sticky Menu on Scroll, Announcement Banner, and Sticky Header for Any Theme &#8211; My Sticky Bar (formerly myStickymenu) - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Floating Notification Bar, Sticky Menu on Scroll, Announcement Banner, and Sticky Header for Any Theme &#8211; My Sticky Bar (formerly myStickymenu) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-26 09:44:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Floating Notification Bar, Sticky Menu on Scroll, Announcement Banner, and Sticky Header for Any Theme &#8211; My Sticky Bar (formerly myStickymenu) - Stable (latest release)\n"
+
+#: mystickymenu.php:714
+msgid "Sticky Text Color"
+msgstr "Épinglé - Couleur du texte"
+
+#: welcome-bar.php:416
+msgid "Attention Effect"
+msgstr "Effet d’attention"
+
+#: welcome-bar.php:420
+msgid "None"
+msgstr "Aucun"
+
+#: welcome-bar.php:421
+msgid "Flash"
+msgstr "Flash"
+
+#: welcome-bar.php:423
+msgid "Swing"
+msgstr "Balancer"
+
+#: welcome-bar.php:424
+msgid "Tada"
+msgstr "Tada"
+
+#: welcome-bar.php:425
+msgid "Heartbeat"
+msgstr "Battement de cœur"
+
+#: welcome-bar.php:426
+msgid "Wobble"
+msgstr "Tremblement"
+
+#: welcome-bar.php:422
+msgid "Shake"
+msgstr "Trembler"
+
+#: mystickymenu.php:772 mystickymenu.php:810 welcome-bar.php:637
+msgid "Don't show on"
+msgstr "Ne pas afficher sur"
+
+#: mystickymenu.php:777 mystickymenu.php:815 welcome-bar.php:642
+msgid "Select Rule"
+msgstr "Sélectionner une règle"
+
+#: mystickymenu.php:1101
+msgid "Reset Settings saved."
+msgstr "Réinitialiser les réglages enregistrés."
+
+#: welcome-bar.php:86
+msgid "Position"
+msgstr "Position"
+
+#: welcome-bar.php:101
+msgid "Height"
+msgstr "Hauteur"
+
+#: welcome-bar.php:125
+msgid "Font"
+msgstr "Police"
+
+#: welcome-bar.php:141
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: welcome-bar.php:150
+msgid "Bar Text"
+msgstr "Texte de la barre"
+
+#: welcome-bar.php:397
+msgid "Button Color"
+msgstr "Couleur du bouton"
+
+#: welcome-bar.php:537
+msgid "Display Rules"
+msgstr "Règles d’affichage"
+
+#: welcome-bar.php:553
+msgid " Upgrade Now"
+msgstr "Mettre à niveau maintenant"
+
+#: welcome-bar.php:575
+msgid "After a few seconds"
+msgstr "Après quelques secondes"
+
+#: welcome-bar.php:578
+msgid "After Scroll"
+msgstr "Après le défilement"
+
+#: welcome-bar.php:590
+msgid "Expiry date"
+msgstr "Date d’expiration"
+
+#: welcome-bar.php:693
+msgid "Preview"
+msgstr "Aperçu"
+
+#: welcome-bar.php:409
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: welcome-bar.php:403
+msgid "Button Text Color"
+msgstr "Couleur du texte du bouton"
+
+#: mystickymenu.php:771 mystickymenu.php:809 welcome-bar.php:636
+msgid "Show on"
+msgstr "Afficher sur"
+
+#: welcome-bar.php:595
+msgid "No expiry date"
+msgstr "Aucune date d’expiration"
+
+#: welcome-bar.php:128
+msgid "Select font family"
+msgstr "Sélectionner la famille de police"
+
+#. Description of the plugin
+#: mystickymenu.php
+msgid "Simple sticky (fixed on top) menu implementation for navigation menu and Welcome bar for announcements and promotion. After install go to Settings / myStickymenu and change Sticky Class to .your_navbar_class or #your_navbar_id."
+msgstr "Implémentation du menu épinglé simple (épinglé en haut) pour le menu de navigation et la barre de bienvenue, les annonces et les promotions. Après l’installation aller dans Réglages -> myStickymenu et changer la Classe Épinglé .votre_navbar_class ou #votre_navbar_id."
+
+#: welcome-bar.php:91
+msgid "Top"
+msgstr "En haut"
+
+#: welcome-bar.php:478
+msgid "Open in a new tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: welcome-bar.php:569
+msgid "Trigger"
+msgstr "Déclencheur"
+
+#: welcome-bar.php:95
+msgid "Bottom"
+msgstr "En bas"
+
+#: mystickymenu.php:801 welcome-bar.php:613
+msgid "Add Rule"
+msgstr "Ajouter une règle"
+
+#: mystickymenu.php:750 upgrade-to-pro.php:176 welcome-bar.php:608
+msgid "Page targeting"
+msgstr "Ciblage par page"
+
+#: mystickymenu.php:504 mystickymenu.php:1090 mystickymenu.php:1104
+msgid "Unable to complete your request"
+msgstr "Impossible de terminer votre demande"
+
+#: mystickymenu.php:302
+msgid "Upgrade"
+msgstr "Mettre à niveau"
+
+#. Author URI of the plugin
+#: mystickymenu.php
+msgid "https://premio.io/downloads/mystickymenu/"
+msgstr "https://premio.io/downloads/mystickymenu/"
+
+#: mystickymenu.php:501 mystickymenu.php:1087
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#: mystickymenu.php:554
+msgid "How To Make a Sticky Header"
+msgstr "Comment faire un en-tête épinglé"
+
+#: mystickymenu.php:569
+msgid "Select Sticky Menu"
+msgstr "Sélectionner le menu épinglé"
+
+#: mystickymenu.php:605
+msgid "Other Class Or ID"
+msgstr "Autre classe ou ID"
+
+#: mystickymenu.php:619 welcome-bar.php:556
+msgid "Devices"
+msgstr "Appareils"
+
+#: mystickymenu.php:620 mystickymenu.php:741 mystickymenu.php:829
+#: mystickymenu.php:864 welcome-bar.php:97 welcome-bar.php:109
+#: welcome-bar.php:274 welcome-bar.php:359 welcome-bar.php:373
+#: welcome-bar.php:484 welcome-bar.php:496 welcome-bar.php:524
+#: welcome-bar.php:656
+msgid "Upgrade Now"
+msgstr "Mettre à niveau maintenant"
+
+#: mystickymenu.php:626 welcome-bar.php:253 welcome-bar.php:388
+#: welcome-bar.php:560
+msgid "Desktop"
+msgstr "Ordinateur"
+
+#: mystickymenu.php:632 welcome-bar.php:257 welcome-bar.php:392
+#: welcome-bar.php:564
+msgid "Mobile"
+msgstr "Mobile"
+
+#: mystickymenu.php:642 stickymenu-dashboard.php:219
+msgid "Settings"
+msgstr "Réglages"
+
+#: mystickymenu.php:740
+msgid "Hide on Scroll Down"
+msgstr "Masquer au défilement vers le bas"
+
+#: mystickymenu.php:876
+msgid "blog page"
+msgstr "page de blog"
+
+#: mystickymenu.php:882
+msgid "pages"
+msgstr "pages"
+
+#: mystickymenu.php:888
+msgid "tags"
+msgstr "étiquettes"
+
+#: mystickymenu.php:894
+msgid "categories"
+msgstr "catégories"
+
+#: mystickymenu.php:900
+msgid "posts"
+msgstr "articles"
+
+#: mystickymenu.php:906
+msgid "archives"
+msgstr "archives"
+
+#: mystickymenu.php:912
+msgid "search"
+msgstr "rechercher"
+
+#: mystickymenu.php:926
+msgid "<span class=\"description\"><strong>Except for this pages:</strong> </span>"
+msgstr "<span class=\"description\"><strong>Sauf pour ces pages :</strong></span>"
+
+#: mystickymenu.php:940
+msgid "<span class=\"description\"><strong>Except for this posts:</strong> </span>"
+msgstr "<span class=\"description\"><strong>Sauf pour ces publications :</strong></span>"
+
+#: mystickymenu.php:977 welcome-bar.php:739
+msgid "Save"
+msgstr "Enregistrer"
+
+#: mystickymenu.php:985 welcome-bar.php:750
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: mystickymenu.php:990
+msgid "Leave a review"
+msgstr "Laisser un avis"
+
+#: mystickymenu.php:1162
+msgid "Upgrade to Pro"
+msgstr "Mettre à niveau vers Pro"
+
+#: mystickymenu.php:870
+msgid "front page"
+msgstr "page d’accueil"
+
+#: mystickymenu.php:661 welcome-bar.php:547
+msgid "Fade"
+msgstr "Fondu"
+
+#: mystickymenu.php:918
+msgid "404"
+msgstr "404"
+
+#: mystickymenu.php:668
+msgid "Less than chosen screen width, set 0 to disable"
+msgstr "Moins que la largeur de l’écran choisie, réglez sur 0 pour désactiver."
+
+#: mystickymenu.php:657
+msgid "Slide"
+msgstr "Glissement"
+
+#. Plugin URI of the plugin
+#: mystickymenu.php
+msgid "https://premio.io/"
+msgstr "https://premio.io/"
+
+#. Author of the plugin
+#: mystickymenu.php
+msgid "Premio"
+msgstr "Premio"
+
+#: mystickymenu.php:840
+msgid "CSS ID's and Classes to use:"
+msgstr "ID et classes CSS à utiliser :"
+
+#: mystickymenu.php:835 upgrade-to-pro.php:184
+msgid "CSS style"
+msgstr "Style CSS"
+
+#: mystickymenu.php:836
+msgid "Add/edit CSS style. Leave it blank for default style."
+msgstr "Ajouter/modifier le style CSS. Laissez-le vide pour le style par défaut."
+
+#: mystickymenu.php:745
+msgid "Disable sticky menu at scroll down"
+msgstr "Désactiver le menu fixe au défilement bas"
+
+#: mystickymenu.php:678
+msgid "If set to 0 auto calculate will be used."
+msgstr "Si réglé sur 0, le calcul auto sera utilisé."
+
+#: mystickymenu.php:556
+msgid "Add sticky menu / header to any theme. <br />Simply change 'Sticky Class' to HTML element class desired to be sticky (div id can be used as well)."
+msgstr "Ajouter un menu/en-tête épinglé à n’importe quel thème.<br />Il suffit de changer la « Classe épinglée » par la classe de l’élément HTML souhaitée pour être épinglé (div id peut être utilisé aussi)."
+
+#: mystickymenu.php:690
+msgid "If set to 0 it will use initial Make visible on Scroll value."
+msgstr "Si réglé sur 0, la valeur de visibilité de défilement initiale sera utilisée."
+
+#: mystickymenu.php:863
+msgid "Disable at"
+msgstr "Désactiver sur"
+
+#: mystickymenu.php:933
+msgid "<span class=\"description\">Comma separated list of pages to enable. It should be page name, id or slug. Example: about-us, 1134, Contact Us. Leave blank if you realy want to disable sticky menu for all pages.</span>"
+msgstr "<span class=\"description\">Liste de pages séparées par des virgules à activer. Il doit s’agir du nom de la page, de l’ID ou du slug. Exemple : à propos de nous, 1134, contactez-nous. Laissez vide si vous voulez vraiment désactiver le menu épinglé pour toutes les pages.</span>"
+
+#: mystickymenu.php:947
+msgid "<span class=\"description\">Comma separated list of posts to enable. It should be post name, id or slug. Example: about-us, 1134, Contact Us. Leave blank if you realy want to disable sticky menu for all posts.</span>"
+msgstr "<span class=\"description\">Liste de publications séparés par des virgules à activer. Il doit s’agir d’un nom de publication, de l’ID ou du slug. Exemple : à propos de nous, 1134, contactez-nous. Laissez vide si vous voulez vraiment désactiver le menu épinglé pour toutes les publications.</span>"
+
+#: mystickymenu.php:652
+msgid "Fade or slide effect"
+msgstr "Effet de fondu ou de glissement"
+
+#: mystickymenu.php:852
+msgid "Disable CSS style"
+msgstr "Désactiver le style CSS"
+
+#. Plugin Name of the plugin
+#: mystickymenu.php
+msgid "myStickymenu"
+msgstr "myStickymenu"
+
+#: mystickymenu.php:677
+msgid "Make visible on Scroll"
+msgstr "Rendre visible au défilement"
+
+#: mystickymenu.php:724
+msgid "numbers 1-100."
+msgstr "numéros 1-100."
+
+#: mystickymenu.php:856
+msgid "Use this option if you plan to include CSS Style manually"
+msgstr "Utilisez cette option si vous prévoyez d’inclure le style CSS manuellement"
+
+#: mystickymenu.php:689
+msgid "Make visible on Scroll at homepage"
+msgstr "Rendre visible au défilement sur la page d’accueil "
+
+#: mystickymenu.php:667
+msgid "Disable at Small Screen Sizes"
+msgstr "Désactiver sur les écrans de petites tailles"
+
+#: mystickymenu.php:699
+msgid "Sticky Background Color"
+msgstr "Épinglé - Couleur d’arrière-plan"
+
+#: mystickymenu.php:562
+msgid "Sticky Class"
+msgstr "Épinglé - Classe"
+
+#: mystickymenu.php:723
+msgid "Sticky Opacity"
+msgstr "Épinglé - Opacité"
+
+#: mystickymenu.php:708
+msgid "Sticky Transition Time"
+msgstr "Épinglé - Durée de la transition"
+
+#: mystickymenu.php:646
+msgid "Sticky z-index"
+msgstr "Épinglé - z-index"
